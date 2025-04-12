@@ -22,8 +22,8 @@ public class LibraryMain {
         int studentSearchChoice;
 
 
-        Library library = new Library("London University Library",
-                "Finsbury Park, London, UK");
+        Library library = new Library("VIT University Library",
+                "VIT University, Vellore, Tamil Nadu");
         System.out.println(library);
         System.out.println("*** Welcome to the Library Management System (LMS) ***");
         LocalDate date = LocalDate.now();
